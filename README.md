@@ -1,4 +1,4 @@
-# covid-19-tracker
+# covid-19-tracker watch the app below
 An mobile application via which you can check your risk level of having covid-19, view confirmed cases of covid-19 in different countries 
 and updated news on the diseases.
 
